@@ -2,7 +2,7 @@
 
 <img align='right' src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="250">
 <p><em>Electronic Enginner at <a href="https://www.uis.edu.co">Universidad Industrial de Santander, CO</a> <img src="https://uis.edu.co/wp-content/uploads/2024/12/Recurso-1logo-uis-.png" width="60">
-</br>Starting the development of applications and embedded systems... <img src="https://i.pinimg.com/originals/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg" width="40"> </em></p>
+</br>Starting the development of applications and embedded systems... <img src="https://i.pinimg.com/originals/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg" width="30"> </em></p>
 
 [![Twitter: dagdmfc](https://img.shields.io/twitter/follow/dagdmfc?style=social)](https://x.com/dagdmfc)
 [![Linkedin: dagdmfc](https://img.shields.io/badge/-dagdmfc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-andr%C3%A9s-g-854641114/)](https://www.linkedin.com/in/diego-andr%C3%A9s-g-854641114/)
@@ -60,5 +60,7 @@ A continuación puedes ver el rendimiento de mi actividad en GitHub y los lengua
   </a>
 </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagdmfc1946)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180" src="./profile/stats.svg" alt="Estadísticas de GitHub de Diego" />
+  <img height="180" src="./profile/langs.svg" alt="Lenguajes más usados por Diego" />
+</p>
