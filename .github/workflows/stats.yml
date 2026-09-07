@@ -8,10 +8,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Concede permiso de escritura a nivel de tarea obligatoria
+      contents: write
     steps:
       - uses: actions/checkout@v4
       
+      # Generamos la tarjeta de estadísticas generales localmente en tu perfil
       - name: Generar tarjeta de estadísticas
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -20,6 +21,7 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Generamos la tarjeta de lenguajes localmente en tu perfil
       - name: Generar tarjeta de lenguajes
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -28,7 +30,7 @@ jobs:
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Reemplazamos el comando manual por una acción dedicada que maneja el error 128
+      # Guardamos de forma segura ambos archivos (.svg) en tu repositorio
       - name: Guardar tarjetas de forma segura
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
