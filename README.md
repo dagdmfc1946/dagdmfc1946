@@ -1,7 +1,6 @@
 <h2> Hi, I'm Diego! <img src="https://i.pinimg.com/originals/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg" width="30"></h2>
 <img align='right' src="" width="230">
-<p><em>Electronic Enginner at <a href="https://www.uis.edu.co">Universidad Industrial de Santander, CO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Starting the development of applications and embedded systems... at <a href="">DAGD-WORKS</a><img src="" width="30"> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Electronic Enginner at <a href="https://www.uis.edu.co">Universidad Industrial de Santander, CO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Starting the development of applications and embedded systems... at <a href="">DAGD-WORKS</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 [![Twitter: dagdmfc](https://img.shields.io/x/follow/dagdmfc?style=social)](https://x.com/dagdmfc)
 [![Linkedin: dagdmfc](https://img.shields.io/badge/-dagdmfc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/diego-andr%C3%A9s-g-854641114/))](https://www.linkedin.com/in/diego-andr%C3%A9s-g-854641114/)
