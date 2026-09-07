@@ -47,4 +47,17 @@ dagdmfc = {
 }
 ```
 
-[![dagdmfc1946's github stats](https://github-readme-stats.vercel.app/api?username=dagdmfc1946)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Mis Estadísticas de GitHub
+
+A continuación puedes ver el rendimiento de mi actividad en GitHub y los lenguajes más utilizados en mis repositorios públicos:
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://vercel.app" alt="Estadísticas de GitHub de Diego" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://vercel.app" alt="Lenguajes más usados por Diego" />
+  </a>
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagdmfc1946)](https://github.com/anuraghazra/github-readme-stats)
