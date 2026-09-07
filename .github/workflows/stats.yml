@@ -1,12 +1,14 @@
 name: Actualizar Tarjetas del README
 on:
   schedule:
-    - cron: "0 3 * * *" # Se ejecuta automáticamente todos los días a las 3 AM
-  workflow_dispatch: # Te permite ejecutarlo manualmente cuando quieras
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Esto refuerza el permiso de escritura a nivel de código
     steps:
       - uses: actions/checkout@v4
       
@@ -28,8 +30,8 @@ jobs:
 
       - name: Guardar tarjetas en el repositorio
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@://github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
