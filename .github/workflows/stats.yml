@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Esto refuerza el permiso de escritura a nivel de código
+      contents: write # Concede permiso de escritura a nivel de tarea obligatoria
     steps:
       - uses: actions/checkout@v4
       
@@ -28,10 +28,9 @@ jobs:
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Guardar tarjetas en el repositorio
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@://github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+      # Reemplazamos el comando manual por una acción dedicada que maneja el error 128
+      - name: Guardar tarjetas de forma segura
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update README cards"
+          file_pattern: 'profile/*.svg'
