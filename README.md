@@ -1,4 +1,12 @@
-## Hi there 👋
+<h2> Hi, I'm Diego! <img src="https://i.pinimg.com/originals/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg" width="50"></h2>
+<img align='right' src="" width="230">
+<p><em>Electronic Enginner at <a href="https://www.uis.edu.co">Universidad Industrial de Santander, CO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Starting the development of applications and embedded systems... at <a href="">DAGD-WORKS</a><img src="" width="30"> 
+</em></p>
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: dagdmfc](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/diego-andr%C3%A9s-g-854641114/)
+[![GitHub dagdmfc1946]()](https://github.com/dagdmfc1946)
+
 
 <!--
 **dagdmfc1946/dagdmfc1946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
