@@ -46,19 +46,10 @@ dagdmfc = {
     "focus": "Firmware development, IoT, and manufacturing inspection of regulated medical devices",
 }
 ```
-
-## 📊 Mis Estadísticas de GitHub
+<h2> 📊 Mis Estadísticas de GitHub</h2>
 
 A continuación puedes ver el rendimiento de mi actividad en GitHub y los lenguajes más utilizados en mis repositorios públicos:
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://vercel.app" alt="Estadísticas de GitHub de Diego" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://vercel.app" alt="Lenguajes más usados por Diego" />
-  </a>
-</p>
 
 <p align="center">
   <img height="180" src="./profile/stats.svg" alt="Estadísticas de GitHub de Diego" />
