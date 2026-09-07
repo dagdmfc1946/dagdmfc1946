@@ -1,39 +1,44 @@
-<h2> Hi, I'm Diego! <img src="https://i.pinimg.com/originals/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg" width="30"></h2>
-<img align='right' src="" width="230">
-<p><em>Electronic Enginner at <a href="https://www.uis.edu.co">Universidad Industrial de Santander, CO</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Starting the development of applications and embedded systems... at <a href="">DAGD-WORKS</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
+<h2> Hi, I'm Diego! <img src="https://i.pinimg.com/originals/0f/8b/28/0f8b2870896edcde8f6149fe2733faaf.jpg" width="25"></h2>
 
-[![Twitter: dagdmfc](https://img.shields.io/x/follow/dagdmfc?style=social)](https://x.com/dagdmfc)
-[![Linkedin: dagdmfc](https://img.shields.io/badge/-dagdmfc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/diego-andr%C3%A9s-g-854641114/))](https://www.linkedin.com/in/diego-andr%C3%A9s-g-854641114/)
-[![GitHub dagdmfc1946](https://img.shields.io/github/followers/dagdmfc1946?label=follow&style=social)](https://github.com/dagdmfc1946)
+<img align='right' src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="250">
+<p><em>Electronic Enginner at <a href="https://www.uis.edu.co">Universidad Industrial de Santander, CO</a> <img src="https://uis.edu.co/wp-content/uploads/2024/12/Recurso-1logo-uis-.png" width="60">
+</br>Starting the development of applications and embedded systems... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+[![Twitter: dagdmfc](https://img.shields.io/twitter/follow/dagdmfc?style=social)](https://x.com/dagdmfc)
+[![Linkedin: dagdmfc](https://img.shields.io/badge/-dagdmfc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-andr%C3%A9s-g-854641114/)](https://www.linkedin.com/in/diego-andr%C3%A9s-g-854641114/)
+[![GitHub dagdmfc1946](https://img.shields.io/github/followers/dagdmfc1946?label=follow&style=social)](https://github.com/dagdmfc1946/)
+<a href="https://github.com/dagdmfc1946"> <img src="https://komarev.com/ghpvc/?username=dagdmfc1946"> </a>
 
-```
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+
+### <img src="https://media.tenor.com/GD9UKMwnxYIAAAAM/ngoding-mulu.gif" width="80"> More about me...  
+
+```python
+dagdmfc = {
+    "name": "Diego García",
+    "nickname": "Diegod",
+    "role": "Profesional Dirección Técnica",
+    "company": "QualityMedical (Fundación Cardiovascular de Colombia)",
+    "skills": {
+        "languages": ["Python", "MicroPython", "C", "Bash", "ESP-IDF"],
+        "hardware_and_mcus": [
+            "ESP32",
+            "Heltec Wi-Fi LoRa 32 v3",
+            "Raspberry Pi 4",
+            "Raspberry Pi CM4",
+            "STM32 (Bluepill)",
+            "Arduino Uno/Nano/Mega",
+            "MCU ATmega328",
+        ],
+        "tools_and_tech": ["Git", "SMD Soldering", "PCB Design & Repair", "Electronic Components Logistics"],
+    },
+    "featured_projects": [
+        "Telsy - Telemonitoring System (Medical Device Class IIb) / QualityMedical (FCV)",
+        "Sound Level Meter & Nurse Call System / QualityMedical (FCV)",
+        "Inpulse (Firmware & Hardware support) / DIDT (FCV)",
+        "IoT Temperature & Humidity System for hospital environments / DIDT (FCV)",
+    ],
+    "focus": "Firmware development, IoT, and manufacturing inspection of regulated medical devices",
 }
 ```
 
-<!--
-**dagdmfc1946/dagdmfc1946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![dagdmfc1946's github stats](https://github-readme-stats.vercel.app/api?username=dagdmfc1946)](https://github.com/anuraghazra/github-readme-stats)
