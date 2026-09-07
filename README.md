@@ -51,11 +51,11 @@ dagdmfc = {
 A continuación puedes ver el rendimiento de mi actividad en GitHub y los lenguajes más utilizados en mis repositorios públicos:
 
 <p align="center">
-  <img height="180" src="./profile/stats.svg" alt="Estadísticas de GitHub de Diego" />
+  <img height="180" src="./profile/langs.svg" alt="Lenguajes más usados por Diego" />
 </p>
 
 <br />
 
 <p align="center">
-  <img height="180" src="./profile/langs.svg" alt="Lenguajes más usados por Diego" />
+  <img height="180" src="https://vercel.app" alt="Estadísticas de GitHub de Diego" />
 </p>
