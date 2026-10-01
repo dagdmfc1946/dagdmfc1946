@@ -39,8 +39,7 @@ dagdmfc = {
     },
     "featured_projects": [
         "Telsy - Telemonitoring System (Medical Device Class IIb) / QualityMedical (FCV)",
-        "Sound Level Meter & Nurse Call System / QualityMedical (FCV)",
-        "Inpulse (Firmware & Hardware support) / DIDT (FCV)",
+        "Inpulse (Hardware support) / DIDT (FCV)",
         "IoT Temperature & Humidity System for hospital environments / DIDT (FCV)",
     ],
     "focus": "Firmware development, IoT, and manufacturing inspection of regulated medical devices",
