@@ -19,7 +19,7 @@ dagdmfc = {
     "roleWork": "Profesional Dirección Técnica",
     "companyWork": "QualityMedical (Fundación Cardiovascular de Colombia)",
     "skills": {
-        "languages": ["Python", "MicroPython", "C", "Bash", "ESP-IDF"],
+        "languages": ["Python", "C"],
         "hardware_and_mcus": [
             "ESP32",
             "Heltec Wi-Fi LoRa 32 v3",
@@ -33,7 +33,7 @@ dagdmfc = {
         "sofwtare use": ["Arduino IDE", "VSCode", "EasyEDA", "LTSpice", "Proteus", "Thonny", "PyTTy",],
         "ai_ecosystem": {
             "local": ["Ollama", "Local LLMs"],
-            "cloud_api": ["ChatGPT", "Claude", "OpenRouter", "DeepSeek"]
+            "cloud_api": ["ChatGPT/Codex", "Claude", "OpenRouter", "DeepSeek"]
         },
 
     },
@@ -42,7 +42,7 @@ dagdmfc = {
         "Inpulse (Hardware support) / DIDT (FCV)",
         "IoT Temperature & Humidity System for hospital environments / DIDT (FCV)",
     ],
-    "focus": "Firmware development, IoT, and manufacturing inspection of regulated medical devices",
+    "focus": "Firmware development, IoT, Embedded systems.",
 }
 ```
 <h2> 📊 Mis Estadísticas de GitHub</h2>
@@ -51,10 +51,4 @@ A continuación puedes ver el rendimiento de mi actividad en GitHub y los lengua
 
 <p align="center">
   <img height="180" src="./profile/langs.svg" alt="Lenguajes más usados por Diego" />
-</p>
-
-<br />
-
-<p align="center">
-  <img height="180" src="https://vercel.app" alt="Estadísticas de GitHub de Diego" />
 </p>
